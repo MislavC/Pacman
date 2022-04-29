@@ -6,7 +6,7 @@ coins you collected. You have three lives so be careful of the ghosts. To make i
 rid of one ghost on the map.
 
 P.S
-Try to be as far away from the walls, since sometimes you lose the ability to move. Good lucky and enjoy the game.
+Try to be as far away from the walls, since sometimes you lose the ability to move. Good luck and enjoy the game.
 
 Best regards,
 from Team 4
